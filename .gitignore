@@ -2,4 +2,5 @@
 .DS_Store
 euclid/euclid
 euclid/euclid.o
-
+*.o
+*.exe
